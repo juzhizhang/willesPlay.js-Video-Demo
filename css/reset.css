@@ -279,8 +279,3 @@ body .fn-hide {
 .fn-right {
     float: right;
 }
-
-#imgPreview {
-    position: absolute;
-    z-index: -1;
-}
